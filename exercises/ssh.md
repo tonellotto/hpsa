@@ -93,7 +93,7 @@ or later, using SSH:
 
     ssh <student-id>@<host-id> mv ~/foo.txt ~/bar.txt
 
-Copy the file back from the server to the clinet and change the name on the local machine:
+Copy the file back from the server to the client and change the name on the local machine:
 
     scp <student-id>@<host-id>:~/foo.txt ~/foo_bar.txt
 
