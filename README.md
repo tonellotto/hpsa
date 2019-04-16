@@ -1,1 +1,1 @@
-Controllare il _branch_ dell'anno accademico d'interesse ([anno accademico corrente](https://github.com/tonellotto/hpsa/blob/aa1819/README.md))
+# High Performance & Scalable Analytics (aa 2018/2019)
