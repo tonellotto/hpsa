@@ -39,13 +39,13 @@ The given dataset (train.tsv) contains 5 classes, discard the neutral class and 
 **Dataset**:
 [https://www.kaggle.com/aaron7sun/stocknews](https://www.kaggle.com/aaron7sun/stocknews)
 
-### 5. Customer segmentation of bank accounts
+### 5. Customer segmentation of bank customers
 **Objective**: segment the bank customers based on their credit card usage behaviour to define new marketing strategies.
 
 **Dataset**:
 [https://www.kaggle.com/arjunbhasin2013/ccdata](https://www.kaggle.com/arjunbhasin2013/ccdata)
 
-### 6. Customer segmentation from e-commerce transactions
+### 6. Customer segmentation of e-commerce customers
 **Objective**: segment the e-commerce customers based on their transactions to define new marketing strategies.
 
 **Dataset**:
