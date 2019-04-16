@@ -1,17 +1,22 @@
 # High Performance & Scalable Analytics (A.A. 2018/2019)
 
-Sito Web del corso di "High Performance & Scalable Analytics" del master di II livello in Big Data Analytics & Social Mining dell'Università di Pisa.
+Web site of the course "High Performance & Scalable Analytics", 2nd level master degree in "Big Data Analytics & Social Mining" of the University of Pisa.
 
-* Responsabile: [Nicola Tonellotto](http://pomino.isti.cnr.it/~khast)
-* Assistente: Roberto Trani
-* Ore: 20
-* Periodo: dal 17/04/2019 al 16/05/2019
-* Lingua: inglese
+* Responsible: [Nicola Tonellotto](http://pomino.isti.cnr.it/~khast)
+* TA: Roberto Trani
+* Hours: 20
+* Period: dal 17/04/2019 al 16/05/2019
+* Language: english
 * Email: nicola [dot] tonellotto [at] isti [dot] cnr [dot] it, roberto [dot] trani [at] isti [dot] cnr [dot] it
 
-## Esame
+## Exam
 
-L'esame consiste in un progetto software sugli argomenti del corso e da una prova scritta.
+The final exam is composed by a software project on the course topics and by a written examination test.
+
+## Notes
+
+* [Here](./pyspark.md) you can find some quick and dirty notes to install [Spark 2.4.1](https://spark.apache.org/docs/2.4.1/) on your laptop or local machine.
+* [Here](./exercises/ssh.md) you can find some warmup exercises on SSH and SCP.
 
 ## Lezioni
 
