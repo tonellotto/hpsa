@@ -5,13 +5,13 @@ Web site of the course "High Performance & Scalable Analytics", 2nd level master
 * Responsible: [Nicola Tonellotto](http://pomino.isti.cnr.it/~khast)
 * TA: Roberto Trani
 * Hours: 20
-* Period: dal 17/04/2019 al 16/05/2019
+* Period: from 17/04/2019 to 16/05/2019
 * Language: english
 * Email: nicola [dot] tonellotto [at] isti [dot] cnr [dot] it, roberto [dot] trani [at] isti [dot] cnr [dot] it
 
 ## Exam
 
-The final exam is composed by a software project on the course topics and by a written examination test.
+The final exam is composed of a software project ([descripted here](./projects.md)) on the course topics and by a written examination test.
 
 ## Notes
 
@@ -19,9 +19,9 @@ The final exam is composed by a software project on the course topics and by a w
 * [Here](./exercises/ssh.md) you can find some warmup exercises on SSH and SCP.
 * [Here](./exercises/hdfs.md) you can find some notes and quickexercises on HDFS.
 
-## Lezioni
+## Lectures
 
-|Data|Orario|Argomenti|Slide|
+|Date|Time|Topics|Slide|
 |:--:|:----:|---------|:---:|
 |17/04|9-13|||
 
