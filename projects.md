@@ -27,7 +27,7 @@ The students must sent the following files via e-mail (CC to roberto.trani@isti.
 [https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data).
 The given dataset (train.tsv) contains 5 classes, discard the neutral class and transform the remaining 4 classes into positives and negatives.
 
-### 3. Category identification of beers
+### 3. Identification of beer categories
 **Objective**: build a beer classification model predicting if a beer is an *"American IPA"* or not based on its properties.
 
 **Dataset**:
