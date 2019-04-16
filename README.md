@@ -11,7 +11,7 @@ Web site of the course "High Performance & Scalable Analytics", 2nd level master
 
 ## Exam
 
-The final exam is composed of a software project ([descripted here](./projects.md)) on the course topics and by a written examination test.
+The final exam is composed of a software project ([described here](./projects.md)) on the course topics and by a written examination test.
 
 ## Notes
 
