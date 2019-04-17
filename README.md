@@ -23,7 +23,7 @@ The final exam is composed of a software project ([described here](./projects.md
 
 |Date|Time|Topics|Slide|
 |:--:|:----:|---------|:---:|
-|17/04|9-13|||
+|17/04|9-13|Introduction, administrative stuff, projects discussion. Parallel and distributed computing concepts: Flynn taxonomy, shared memory and distributed message passing. Big data processing: problems with code and data. Map Reduce: design ideas, typical applications, basic model, wordcount example, image example. SSH and SCP crash course and exercises. |[PDF](./slides/lezione1.pdf)|
 
 
 
