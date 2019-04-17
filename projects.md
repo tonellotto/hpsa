@@ -1,6 +1,6 @@
 # HPSA projects description
 
-The project consists of applying the concepts and tools learned during the course on real use-cases.
+The project consists of applying concepts and tools learned during the course to real use-cases.
 The project involves employing a data mining pipeline on real data in a distributed environment.
 Six projects are available, although the students can propose (and discuss) new projects to the tutor before May, 4th.
 
