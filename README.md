@@ -15,9 +15,9 @@ The final exam is composed of a software project ([described here](./projects.md
 
 ## Notes
 
-* [Here](./pyspark.md) you can find some quick and dirty notes to install [Spark 2.4.1](https://spark.apache.org/docs/2.4.1/) on your laptop or local machine.
+* [Here](./pyspark.md) you can find some quick and dirty notes to install [Spark 2.4.1](https://spark.apache.org/docs/2.4.1/) on your laptop or local machine (*nix only).
 * [Here](./exercises/ssh.md) you can find some warmup exercises on SSH and SCP.
-* [Here](./exercises/hdfs.md) you can find some notes and quickexercises on HDFS.
+* [Here](./exercises/hdfs.md) you can find some notes and quick exercises on HDFS.
 
 ## Lectures
 
