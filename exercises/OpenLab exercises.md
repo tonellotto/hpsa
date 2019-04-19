@@ -10,6 +10,8 @@
 6. Move the file into the directory ```input``` with the command ```mv shakespeare.txt input/shakespeare.txt```.
 7. Copy the file from the server to the HDFS with the command ```hadoop fs -copyFromLocal <remote_path> <hdfs_path>```.
 8. Check if the file is there with the command ```hadoop fs -ls <hdfs_path>```.
+9. Create a directory ```input``` inside the HDFS with the command ```hdaoop fs -mkdir input```.
+10. Move the file into the directory ```input``` of the HDFS with the command ```hdaoop fs -mv shakespeare.txt input/shakespeare.txt```.
 9. Read the last rows of the file from the HDFS with the command ```hadoop fs -tail <hdfs_path>```.
 10. Copy the file back from the HDFS to the server with the command ```hadoop fs -copyToLocal <hdfs_path> <remote_path>```.
 11. Copy the file back from the server to the local machine with the command ```scp <username>@<server_address>:<remote_path> <local_path>``` (on your local machine).
