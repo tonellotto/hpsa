@@ -27,5 +27,5 @@ The final exam is composed of a software project ([described here](./projects.md
 |19/04|9-13| Hadoop Distributed File system, namenodes, datanodes, architecture. Exercises. Spark introduction: architecture, applications, driver, executors, context. Resilient Distributed Datasets: introduction, creation, transformation, actions. Spark actions (all). Spark transformations: distinct, filter, sample, map. |[PDF](./slides/lezione2.pdf)|
 |02/05|9-13| Spark transformations: flatMap, sortBy, union, intersection, keyBy, lookup, reduceByKey, sortByKey, join and cartesian. Exercises: word count and bigram count. Data Analytics Process. Machine Learning and Spark: MLLib, Vectors, LabeledPoints, Models data types.|[PDF](./slides/lezione3.pdf)|
 |04/05|9-13| MLLib: basic statistics. TF-IDF, scaler, normalizer. Train, validation and test sets. KMeans, linear regression, logistic regression, decision trees and random forests. |[PDF](./slides/lezione4.pdf)|
-|09/05|9-13| Project Walkthrough |[MarkDown](./slides/lezione5.pdf)|
+|09/05|9-13| Project Walkthrough |[MarkDown](./slides/lezione5.md)|
 
