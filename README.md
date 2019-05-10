@@ -25,7 +25,9 @@ The final exam is composed of a software project ([described here](./projects.md
 |:--:|:----:|---------|:---:|
 |17/04|9-13|Introduction, administrative stuff, projects discussion. Parallel and distributed computing concepts: Flynn taxonomy, shared memory and distributed message passing. Big data processing: problems with code and data. Map Reduce: design ideas, typical applications, basic model, wordcount example, image example. SSH and SCP crash course and exercises. |[PDF](./slides/lezione1.pdf)|
 |19/04|9-13| Hadoop Distributed File system, namenodes, datanodes, architecture. Exercises. Spark introduction: architecture, applications, driver, executors, context. Resilient Distributed Datasets: introduction, creation, transformation, actions. Spark actions (all). Spark transformations: distinct, filter, sample, map. |[PDF](./slides/lezione2.pdf)|
+|19/04|14-16| OpenLab exercises |[MD](./exercises/OpenLab%20exercises.md#openlab-april-19th)|
 |02/05|9-13| Spark transformations: flatMap, sortBy, union, intersection, keyBy, lookup, reduceByKey, sortByKey, join and cartesian. Exercises: word count and bigram count. Data Analytics Process. Machine Learning and Spark: MLLib, Vectors, LabeledPoints, Models data types.|[PDF](./slides/lezione3.pdf)|
 |04/05|9-13| MLLib: basic statistics. TF-IDF, scaler, normalizer. Train, validation and test sets. KMeans, linear regression, logistic regression, decision trees and random forests. |[PDF](./slides/lezione4.pdf)|
-|09/05|9-13| Project Walkthrough |[MD](./slides/lezione5.md) [Notebook](./solutions/Project%20Walkthrough.ipynb)|
-
+|09/05|9-13| Project Walkthrough |[MD](./slides/lezione5.md)|
+|09/05|16-18| OpenLab Project Walkthrough |[Notebook](./solutions/Project%20Walkthrough.ipynb)|
+|10/05|14-18| OpenLab exercises |[MD](./exercises/OpenLab%20exercises.md#openlab-may-10th)|
