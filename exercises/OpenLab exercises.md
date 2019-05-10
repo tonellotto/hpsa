@@ -26,7 +26,7 @@
 # OpenLab May, 10th
 
 ## List of PYSPARK exercises part2
-1. Compute the average word length of ```shakespeare.txt```. Read it by using ```sc.textFile("shakespeare.txt")```.
+1. Compute the average word length of ```shakespeare.txt```. Read it by using ```sc.textFile("hdfs://masterbig-1.itc.unipi.it:54310/masterbig_data/shakespeare.txt")```.
 2. Compute the word length distribution of ```shakespeare.txt```.
 3. Find the most frequent words of ```shakespeare.txt```.
 4. Count the number of words of ```shakespeare.txt``` starting with each letter of the alphabet.
