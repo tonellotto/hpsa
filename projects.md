@@ -9,7 +9,7 @@ Six projects are available, although the students can propose (and discuss) new 
 The project must be developed in teams of at most six people and each team must work on a different project.
 Team members and selected projects must be communicated to the tutor before May, 4th.
 
-The teams must sent the following files via e-mail (CC to roberto.trani@isti.cnr.it) before 12:00 CET of May, 14th:
+The teams must sent the following files via e-mail (CC to roberto.trani@isti.cnr.it) before 23:59 CET of May, 19th:
 - a final report of at most two pages (font-size of at least 11pt and regular margins). The report should contain the following parts: *i*) a brief introduction to the task and the objective; *ii*) a data understanding step and a data preparation step; *iii*) a feature extraction step followed by a modeling step; *iv*) a validation/evaluation step.
 - either a script or a jupyter notebook containing the (well commented) source code runnable on the cluster of the course. The raw input files must be placed in our HDFS and the provided code must read them from the HDFS.
 
