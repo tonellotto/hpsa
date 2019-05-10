@@ -23,7 +23,7 @@
 
 ---
 
-# OpenLab May, 10nd
+# OpenLab May, 10th
 
 ## List of PYSPARK exercises part2
 1. Compute the average word length of ```shakespeare.txt```. Read it by using ```sc.textFile("shakespeare.txt")```.
